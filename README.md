@@ -7,21 +7,22 @@ OS GUESSER 0.1[uber-alpha]
 -------
 PURPOSE
 -------
----The notion of an OS Guesser was conceived (and later designed) half way through coding/testing a different script which was intended to detect Windows 7
----operating systems in an internal network. This was then put aside as the thought and the appeal of a selective OS Guesser became stronger.
----
----The OS Guesser is designed for scanning a network with an installed Nmap package to take an educated guess as to what Operating Systems
----might be running on any host IP address that is in your network.
----
----For more details including flowchart and pseudocode please check OS Guess User and Technical Documentation available in the documents folder on GITHUB
+The notion of an OS Guesser was conceived (and later designed) half way through coding/testing a different script which was intended to detect Windows 7
+operating systems in an internal network. This was then put aside as the thought and the appeal of a selective OS Guesser became stronger.
+
+The OS Guesser is designed for scanning a network with an installed Nmap package to take an educated guess as to what Operating Systems might be running on any host IP address that is in your network.
+
+For more details including flowchart and pseudocode please check OS Guess User and Technical Documentation available in the documents folder on https://github.com/Monsid/OS-Guesser
+
 ------------
 REQUIREMENTS
 ------------
----Python 3.7 or later
----Nmap 7.70 or later
----Internal Network connection
----other hosts to scan
----runs on any OS platform which has the above requirements.
+Python 3.7 or later
+Nmap 7.70 or later
+Internal Network connection
+Other hosts to scan
+This runs on any OS platform which has the above requirements.
+
 -----
 GUIDE
 -----                          
